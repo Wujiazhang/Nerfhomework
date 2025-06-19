@@ -11,4 +11,4 @@ Begin nerf: python run_nerf.py --config bottle1.txt
 
 Render video: bottle_test3_spiral_200000_rgb.mp4
 
-pre-trained model weights: data.pkl
+Pre-trained model weights: data.pkl
